@@ -51,7 +51,7 @@ void print_python_bytes(PyObject *p)
 }
 
 /**
- * print_python_list - prints info about python lists
+ * print_python_list - prints info about python list
  * @p: address of pyobject struct
  */
 void print_python_list(PyObject *p)
