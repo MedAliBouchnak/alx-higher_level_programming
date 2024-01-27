@@ -35,3 +35,7 @@ def matrix_divided(matrix, div):
 if __name__ == "__main__":
     import doctest
     doctest.testfile("tests/2-matrix_divided.txt")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 17f87994f4272a33af9d9c966e9e0f628f718f28

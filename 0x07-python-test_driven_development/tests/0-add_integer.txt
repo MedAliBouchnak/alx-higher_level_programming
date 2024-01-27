@@ -110,3 +110,8 @@ Test float overflow:
     Traceback (most recent call last):
     ...
     OverflowError: cannot convert float infinity to integer
+<<<<<<< HEAD
+=======
+    
+
+>>>>>>> 17f87994f4272a33af9d9c966e9e0f628f718f28

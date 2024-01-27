@@ -95,3 +95,8 @@ Test missing 1 arg:
     Traceback (most recent call last):
     ...
     TypeError: matrix_divided() missing 2 required positional arguments: 'matrix' and 'div'
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 17f87994f4272a33af9d9c966e9e0f628f718f28
